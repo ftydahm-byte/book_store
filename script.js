@@ -13,7 +13,7 @@ const COLD = [
   { name: "Lemon Juice", desc: "Freshly squeezed lemon juice, refreshing and slightly tangy, served chilled for a zesty boost.", price: "560 DA", img: "images/images/WhatsApp Image 2026-06-22 at 21.58.24.jpeg" },
   { name: "Orange Juice", desc: "Freshly pressed blood orange juice with a sweet yet slightly tart citrus flavor.", price: "500 DA", img: "images/images/WhatsApp Image 2026-06-21 at 23.54.26 (2).jpeg" },
   { name: "Banana Milkshake", desc: "Banana Milkshake Creamy milkshake blended with ripe bananas and fresh milk for a smooth, sweet flavor..", price: "540 DA", img: "images/images/WhatsApp Image 2026-06-21 at 23.54.17.jpeg" },
-  { name: "Strawberry Milkshake", desc: "Freshly squeezed lemon juice, refreshing and slightly tangy, served chilled for a zesty boost", price: "590 DA", img: "images/images/WhatsApp Image 2026-06-21 at 23.54.16.jpeg"},
+  { name: "Strawberry Milkshake", desc: "Freshly squeezed lemon juice, refreshing and slightly tangy, served chilled for a zesty boost", price: "590 DA", img: "images/images/WhatsApp Image 2026-06-21 at 23.54.16.jpeg" },
 ];
 const HOT = [
   { name: "Classic Espresso", desc: "Single-origin shot, pulled slow for a deep amber crema.", price: "350 DA", img: "images/images/WhatsApp Image 2026-06-23 at 22.14.27 (1).jpeg" },
@@ -33,7 +33,7 @@ const SWEET = [
   { name: "Fondant au Chocolat", desc: "Warm dark chocolate cake, molten heart and vanilla ice cream.", price: "750 DA", img: "images/images/WhatsApp Image 2026-06-21 at 23.54.13.jpeg" },
   { name: "Crème Brûlée", desc: "Slow-baked French custard with a crisp caramelised sugar crust.", price: "680 DA", img: "images/images/WhatsApp Image 2026-06-21 at 23.54.26 (1).jpeg" },
   { name: "Mousse au chokolat", desc: "Light and creamy chocolate mousse with a smooth, airy texture.", price: "720 DA", img: "images/images/WhatsApp Image 2026-06-21 at 23.54.23.jpeg" },
-  { name: "Pistachio Basbousa", desc: "Semolina cake soaked in orange blossom syrup, topped with pistachios.", price: "620 DA", img: "images/images/WhatsApp Image 2026-06-21 at 23.53.49 (2).jpeg" },
+  { name: "Maltida cake", desc: "Delicious chocolate cake with creamy malt filling, topped with rich chocolate and crunchy malt crumbs. A perfect treat for chocolate lovers.", price: "620 DA", img: "images/images/WhatsApp Image 2026-06-21 at 23.53.49 (2).jpeg" },
   { name: "New York Cheesecake", desc: "Dense cream cheese filling on a buttery graham crust, served chilled.", price: "700 DA", img: "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=400&h=280&fit=crop" },
   { name: "Tiramisu", desc: "Espresso-soaked ladyfingers, mascarpone cream and dark cocoa dust.", price: "690 DA", img: "images/images/WhatsApp Image 2026-06-21 at 23.54.24.jpeg" },
   { name: "Almond Croissant", desc: "Butter croissant filled with frangipane, baked and dusted with icing sugar.", price: "450 DA", img: "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=400&h=280&fit=crop" },
